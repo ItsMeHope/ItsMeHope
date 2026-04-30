@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Looking for an internship<br>🌱 Open-minded, I’m currently learning Nuxt/Javascript/Lua<br>💬 Ask me about music<br>⚡ Fun fact, I putted "Chilli Pepper" as a point of interest in my resume
+🌱 Open-minded, I’m currently learning C#<br>💬 Ask me about music<br>⚡ Fun fact, I putted "Chilli Pepper" as a point of interest in my resume
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
